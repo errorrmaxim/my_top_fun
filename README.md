@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # top_fun-implementation
 
 /* Implementation of simple using "execl" without clone main procces.
@@ -15,3 +16,6 @@
 
    Example:   execl("/path/to/exec", "exec", "first arg", NULL);
 */
+=======
+# my_top_fun
+>>>>>>> c65be1809e79095e663288353733b4953f5a1fec
