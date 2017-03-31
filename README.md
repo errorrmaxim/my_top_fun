@@ -18,7 +18,7 @@ My_top utility */fun version/*
 <p><p/>
 <p><p/>
 
-<h6>Example:   execl("/path/to/exec", "exec", "first arg", NULL);<h6/>
+<h4>Example:   execl("/path/to/exec", "exec", "first arg", NULL);<h4/>
 
 
 
