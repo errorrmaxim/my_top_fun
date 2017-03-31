@@ -1,5 +1,5 @@
-##My_top utility fun version
-
+My_top utility fun version
+---
 
 <p>/* Implementation of simple using "execl" without clone main procces.<p/>
 <p>>Little guide: execl - function of library <unistd.h> <p/>
@@ -14,8 +14,8 @@
 <p>                   	 	previous argument was last;<p/>
 <p><p/>
 <p><p/>
-<p>  Example:   execl("/path/to/exec", "exec", "first arg", NULL);<p/>
+<p>  ######Example:   execl("/path/to/exec", "exec", "first arg", NULL);######<p/>
 */
-=======
-# my_top_fun
->>>>>>> c65be1809e79095e663288353733b4953f5a1fec
+
+
+
