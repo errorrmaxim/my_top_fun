@@ -1,7 +1,8 @@
 My_top utility fun version
----
+===
 
-<p>/* Implementation of simple using "execl" without clone main procces.<p/>
+<p> Implementation of simple using "execl" without clone main procces.<p/>
+-------------------------
 <p>>Little guide: execl - function of library <unistd.h> <p/>
 <p>  <br/>
 <p>   first parameter: - path of executant file "/path/to/some/exec";<p/>
@@ -14,8 +15,8 @@ My_top utility fun version
 <p>                   	 	previous argument was last;<p/>
 <p><p/>
 <p><p/>
-<p>  ###### Example:   execl("/path/to/exec", "exec", "first arg", NULL); ######<p/>
-*/
+<p>  ### Example:   execl("/path/to/exec", "exec", "first arg", NULL); ###<p/>
+
 
 
 
