@@ -7,7 +7,7 @@ My_top utility */fun version/*
 
 Little guide: execl - function of library <unistd.h> <br>
  <br>
- <b>first parameter:<b/> - path of executant file "/path/to/some/exec";<br>
+ <i>first parameter:<i/> - path of executant file "/path/to/some/exec";<br>
   second parameter: - it's 'zero' argument of your exe (path to your exe)<br>
              	        in other words "argv[0]" of your executant file;<br>
    third parameter: - it's 'first' argument of your exe (if it's exist)<br>
@@ -17,7 +17,7 @@ Little guide: execl - function of library <unistd.h> <br>
                    	 	previous argument was last;<br>
 <br>
 <br>
-<i>Курсивное начертание шрифта</i>
+
 <h3>Example:   execl("/path/to/exec", "exec", "first arg", NULL);<h3/>
 
 
