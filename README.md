@@ -5,8 +5,8 @@ My_top utility */fun version/*
    -------------------------
    
 
-***Little guide: execl - function of library <unistd.h><b/>*** <br>
-
+Little guide: execl - function of library <unistd.h><b/> <br>
+__Пример__
  
  **first parameter:** - path of executant file "/path/to/some/exec"; <br>
 **second parameter:** - it's 'zero' argument of your exe (path to your exe)
