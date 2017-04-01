@@ -7,8 +7,8 @@ My_top utility */fun version/*
 
 ___Little guide: execl - function of library___  <unistd.h> <br>
 
-```html 
- ***tfirst parameter:***t - path of executant file "/path/to/some/exec";<br>
+ 
+ ***first parameter:*** - path of executant file "/path/to/some/exec";<br>
     ***tsecond parameter:***t - it's 'zero' argument of your exe (path to your exe)<br>
              	        		   in other words "argv[0]" of your executant file;<br>	
      ***third parameter:*** - it's 'first' argument of your exe (if it's exist)<br>
@@ -20,7 +20,7 @@ ___Little guide: execl - function of library___  <unistd.h> <br>
 <br>
 
 <h3>Example:   execl("/path/to/exec", "exec", "first arg", NULL);<h3/>
-```
+
 
 
 
