@@ -9,8 +9,8 @@ ___Little guide: execl - function of library___  <unistd.h> <br>
 
  
  **first parameter:** - path of executant file "/path/to/some/exec"; <br>
- <pre>  **second parameter:** - it's 'zero' argument of your exe (path to your exe)
-             	         in other words "argv[0]" of your executant file; <pre/><br>		
+  **second parameter:** - it's 'zero' argument of your exe (path to your exe)
+             	         in other words "argv[0]" of your executant file; <br>		
  **third parameter:** - it's 'first' argument of your exe (if it's exist)
 		        "argv[1]", if this arguments does not using in your exe
 	      	              this argument will be ignoring;<br>
