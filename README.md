@@ -5,7 +5,7 @@ My_top utility */fun version/*
    -------------------------
    
 
-___"Little guide: execl - function of library"___ <unistd.h> <br>
+___Little guide: execl - function of library___ <unistd.h> <br>
 
  
  **first parameter:** - path of executant file "/path/to/some/exec"; <br>
