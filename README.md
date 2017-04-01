@@ -3,12 +3,11 @@ My_top utility */fun version/*
 
  Implementation of simple using "execl" without clone main procces.
    -------------------------
-   <p><p/>
+   <br>
 
 Little guide: execl - function of library <unistd.h> <br>
- <br>
- <b>first parameter:<b/> 
- - path of executant file "/path/to/some/exec";<br>
+ 
+<p> <b>first parameter:<b/> - path of executant file "/path/to/some/exec";<p/>
   second parameter: - it's 'zero' argument of your exe (path to your exe)<br>
              	        in other words "argv[0]" of your executant file;<br>
    third parameter: - it's 'first' argument of your exe (if it's exist)<br>
