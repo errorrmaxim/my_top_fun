@@ -13,7 +13,7 @@ ___Little guide: execl - function of library___  <unistd.h> <br>
         	        		   in other words "argv[0]" of your executant file;<br>	
  <pre>third parameter: -  it's 'first' argument of your exe (if it's exist)<br>
 		                           "argv[1]", if this arguments does not using in your exe<br>
-	      	              		   this argument will be ignoring;<pre/>
+	      	              		   this argument will be ignoring;<pre/><br>
 					   
    ***last parameter:***  -     last parameter should be NULL/0 for order to show, that
                    	 	           previous argument was last;<br>
