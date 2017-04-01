@@ -7,7 +7,7 @@ My_top utility */fun version/*
 
 Little guide: execl - function of library <unistd.h> <br>
  
- **first parameter:** - path of executant file "/path/to/some/exec"; 
+ **first parameter:** - path of executant file "/path/to/some/exec"; <br>
 **second parameter:** - it's 'zero' argument of your exe (path to your exe)
              	        in other words "argv[0]" of your executant file;
 			
