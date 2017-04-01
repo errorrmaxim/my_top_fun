@@ -17,7 +17,7 @@ Little guide: execl - function of library <unistd.h> <br>
                    	 	previous argument was last;<br>
 <br>
 <br>
-
+<i>Курсивное начертание шрифта</i>
 <h3>Example:   execl("/path/to/exec", "exec", "first arg", NULL);<h3/>
 
 
